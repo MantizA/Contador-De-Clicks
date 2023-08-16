@@ -7,7 +7,7 @@ Este proyecto es un contador de clicks online usando Javascript, HTML y CSS.
 
 
 ## Demo
-Puedes acceder a una demo en vivo aqui:
+Puedes acceder a una demo en vivo aqui: https://mantiza.github.io/Contador-De-Clicks/
 
 
 ## Screenshots
